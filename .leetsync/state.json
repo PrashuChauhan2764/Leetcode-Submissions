@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789569357594,
+  "updatedAt": 1789569719168,
   "devices": {
     "91371d63-8dfe-4a77-9b9c-129fd02ccbfd": {
-      "lastSeen": 1789569357146
+      "lastSeen": 1789569718691
     }
   },
   "problems": {
@@ -17,7 +17,7 @@
       "number": 2,
       "solutionCount": 1,
       "title": "Add Two Numbers",
-      "at": 1789569357146
+      "at": 1789569718691
     },
     "19": {
       "attempts": 1,
@@ -36,7 +36,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789569357146
+      "at": 1789569718691
     },
     "21": {
       "attempts": 1,
@@ -55,7 +55,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1789569357146
+      "at": 1789569718691
     },
     "24": {
       "attempts": 1,
@@ -74,7 +74,25 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789569357146
+      "at": 1789569718691
+    },
+    "83": {
+      "attempts": 2,
+      "bestMemory": "11.7 MB (Beats 47%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-16",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-16",
+      "folderName": "0083-Remove-Duplicates-from-Sorted-List",
+      "language": "C",
+      "number": 83,
+      "slug": "remove-duplicates-from-sorted-list",
+      "solutionCount": 2,
+      "tags": [
+        "Linked List"
+      ],
+      "title": "Remove Duplicates from Sorted List",
+      "at": 1789569718691
     },
     "206": {
       "bestMemory": "11.3 MB (Beats 92%)",
@@ -86,11 +104,12 @@
       "number": 206,
       "solutionCount": 1,
       "title": "Reverse Linked List",
-      "at": 1789569357146
+      "at": 1789569718691
     }
   },
   "achievements": {
-    "first_blood": 1786334320353
+    "first_blood": 1786334320353,
+    "on_fire": 1789569370915
   },
   "sheets": {},
   "days": [
@@ -98,10 +117,11 @@
     "2026-09-05",
     "2026-09-11",
     "2026-09-14",
-    "2026-09-15"
+    "2026-09-15",
+    "2026-09-16"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 5
+    "longestStreak": 3,
+    "pushes": 7
   }
 }
