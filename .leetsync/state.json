@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789661078816,
+  "updatedAt": 1789661332550,
   "devices": {
     "91371d63-8dfe-4a77-9b9c-129fd02ccbfd": {
-      "lastSeen": 1789661078384
+      "lastSeen": 1789661332095
     }
   },
   "problems": {
@@ -17,7 +17,7 @@
       "number": 2,
       "solutionCount": 1,
       "title": "Add Two Numbers",
-      "at": 1789661078384
+      "at": 1789661332095
     },
     "19": {
       "attempts": 1,
@@ -36,7 +36,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789661078384
+      "at": 1789661332095
     },
     "21": {
       "attempts": 1,
@@ -55,7 +55,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1789661078384
+      "at": 1789661332095
     },
     "24": {
       "attempts": 1,
@@ -74,7 +74,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789661078384
+      "at": 1789661332095
     },
     "83": {
       "attempts": 2,
@@ -92,7 +92,28 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1789661078384
+      "at": 1789661332095
+    },
+    "141": {
+      "attempts": 3,
+      "bestMemory": "11.9 MB (Beats 48%)",
+      "bestRuntime": "14 ms (Beats 29%)",
+      "date": "2026-09-17",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-17",
+      "folderName": "0141-Linked-List-Cycle",
+      "language": "C",
+      "number": 141,
+      "slug": "linked-list-cycle",
+      "solutionCount": 2,
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "title": "Linked List Cycle",
+      "at": 1789661332095
     },
     "206": {
       "bestMemory": "11.3 MB (Beats 92%)",
@@ -104,7 +125,7 @@
       "number": 206,
       "solutionCount": 1,
       "title": "Reverse Linked List",
-      "at": 1789661078384
+      "at": 1789661332095
     }
   },
   "achievements": {
@@ -118,11 +139,12 @@
     "2026-09-11",
     "2026-09-14",
     "2026-09-15",
-    "2026-09-16"
+    "2026-09-16",
+    "2026-09-17"
   ],
   "bests": {
-    "longestStreak": 3,
-    "pushes": 7
+    "longestStreak": 4,
+    "pushes": 9
   },
   "identity": {
     "installId": "112670b5-e2a2-4c06-9e58-1ea7c32b9752",
