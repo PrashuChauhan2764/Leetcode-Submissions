@@ -2,7 +2,7 @@
 
 # 142. Linked List Cycle II
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Medium-ffa116?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-1-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--18-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Medium-ffa116?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--18-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/linked-list-cycle-ii/)
 
@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm — best runtime 10 ms (Beats 12%), best memory 11.1 MB (Beats 35%)" src="panel-dark.svg">
+  <img alt="Topics: Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm — best runtime 3 ms (Beats 96%), best memory 11 MB (Beats 73%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -26,9 +26,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | first try |
-| **Time to solve** | 6 h 27 min |
-| **Verdicts** | ✅ Accepted |
+| **Attempts** | 2 before accepted |
+| **Time to solve** | 6 h 42 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -38,11 +38,12 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (1)
+### SOLUTIONS (2)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.c](./sol1.c) | `C` | 2026-09-18 ← **latest** |
+| 1 | [sol1.c](./sol1.c) | `C` | 2026-09-18 |
+| 2 | [sol2.c](./sol2.c) | `C` | 2026-09-18 ← **latest** |
 
 ---
 
