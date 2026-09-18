@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789737313677,
+  "updatedAt": 1789737532537,
   "devices": {
     "91371d63-8dfe-4a77-9b9c-129fd02ccbfd": {
-      "lastSeen": 1789737313227
+      "lastSeen": 1789737532082
     }
   },
   "problems": {
@@ -17,7 +17,7 @@
       "number": 2,
       "solutionCount": 1,
       "title": "Add Two Numbers",
-      "at": 1789737313227
+      "at": 1789737532082
     },
     "19": {
       "attempts": 1,
@@ -36,7 +36,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1789737313227
+      "at": 1789737532082
     },
     "21": {
       "attempts": 1,
@@ -55,7 +55,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1789737313227
+      "at": 1789737532082
     },
     "24": {
       "attempts": 1,
@@ -74,7 +74,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1789737313227
+      "at": 1789737532082
     },
     "83": {
       "attempts": 2,
@@ -92,7 +92,7 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1789737313227
+      "at": 1789737532082
     },
     "141": {
       "attempts": 3,
@@ -113,7 +113,28 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle",
-      "at": 1789737313227
+      "at": 1789737532082
+    },
+    "142": {
+      "attempts": 1,
+      "bestMemory": "11.1 MB (Beats 35%)",
+      "bestRuntime": "10 ms (Beats 12%)",
+      "date": "2026-09-18",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-18",
+      "folderName": "0142-Linked-List-Cycle-II",
+      "language": "C",
+      "number": 142,
+      "slug": "linked-list-cycle-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "title": "Linked List Cycle II",
+      "at": 1789737532082
     },
     "206": {
       "bestMemory": "11.3 MB (Beats 92%)",
@@ -125,7 +146,7 @@
       "number": 206,
       "solutionCount": 1,
       "title": "Reverse Linked List",
-      "at": 1789737313227
+      "at": 1789737532082
     }
   },
   "achievements": {
@@ -140,11 +161,12 @@
     "2026-09-14",
     "2026-09-15",
     "2026-09-16",
-    "2026-09-17"
+    "2026-09-17",
+    "2026-09-18"
   ],
   "bests": {
-    "longestStreak": 4,
-    "pushes": 9
+    "longestStreak": 5,
+    "pushes": 10
   },
   "identity": {
     "installId": "112670b5-e2a2-4c06-9e58-1ea7c32b9752",
