@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792084197311,
+  "updatedAt": 1792084242908,
   "devices": {
     "91371d63-8dfe-4a77-9b9c-129fd02ccbfd": {
-      "lastSeen": 1792084196860
+      "lastSeen": 1792084242444
     }
   },
   "problems": {
@@ -17,7 +17,7 @@
       "number": 2,
       "solutionCount": 1,
       "title": "Add Two Numbers",
-      "at": 1792084196860
+      "at": 1792084242444
     },
     "19": {
       "attempts": 1,
@@ -36,7 +36,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1792084196860
+      "at": 1792084242444
     },
     "21": {
       "attempts": 1,
@@ -55,7 +55,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1792084196860
+      "at": 1792084242444
     },
     "24": {
       "attempts": 1,
@@ -74,7 +74,26 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1792084196860
+      "at": 1792084242444
+    },
+    "61": {
+      "attempts": 2,
+      "bestMemory": "11.4 MB (Beats 75%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-15",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-15",
+      "folderName": "0061-Rotate-List",
+      "language": "C",
+      "number": 61,
+      "slug": "rotate-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Rotate List",
+      "at": 1792084242444
     },
     "83": {
       "attempts": 2,
@@ -92,7 +111,7 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1792084196860
+      "at": 1792084242444
     },
     "141": {
       "attempts": 3,
@@ -113,7 +132,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle",
-      "at": 1792084196860
+      "at": 1792084242444
     },
     "142": {
       "attempts": 2,
@@ -134,7 +153,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1792084196860
+      "at": 1792084242444
     },
     "206": {
       "bestMemory": "11.3 MB (Beats 92%)",
@@ -146,7 +165,7 @@
       "number": 206,
       "solutionCount": 1,
       "title": "Reverse Linked List",
-      "at": 1792084196860
+      "at": 1792084242444
     },
     "234": {
       "attempts": 1,
@@ -167,10 +186,11 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1792084196860
+      "at": 1792084242444
     }
   },
   "achievements": {
+    "deca": 1792084210452,
     "first_blood": 1786334320353,
     "night_owl": 1790621615944,
     "on_fire": 1789569370915
@@ -185,11 +205,12 @@
     "2026-09-16",
     "2026-09-17",
     "2026-09-18",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-15"
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 12
+    "pushes": 13
   },
   "identity": {
     "installId": "112670b5-e2a2-4c06-9e58-1ea7c32b9752",
