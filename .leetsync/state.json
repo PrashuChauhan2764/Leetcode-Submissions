@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792816928288,
+  "updatedAt": 1792817110137,
   "devices": {
     "91371d63-8dfe-4a77-9b9c-129fd02ccbfd": {
-      "lastSeen": 1792816927667
+      "lastSeen": 1792817109564
     }
   },
   "problems": {
@@ -17,7 +17,7 @@
       "number": 2,
       "solutionCount": 1,
       "title": "Add Two Numbers",
-      "at": 1792816927667
+      "at": 1792817109564
     },
     "19": {
       "attempts": 1,
@@ -36,7 +36,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1792816927667
+      "at": 1792817109564
     },
     "21": {
       "attempts": 1,
@@ -55,7 +55,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1792816927667
+      "at": 1792817109564
     },
     "24": {
       "attempts": 1,
@@ -74,7 +74,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1792816927667
+      "at": 1792817109564
     },
     "61": {
       "attempts": 2,
@@ -93,7 +93,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1792816927667
+      "at": 1792817109564
     },
     "83": {
       "attempts": 2,
@@ -111,7 +111,7 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1792816927667
+      "at": 1792817109564
     },
     "141": {
       "attempts": 3,
@@ -132,7 +132,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle",
-      "at": 1792816927667
+      "at": 1792817109564
     },
     "142": {
       "attempts": 2,
@@ -153,7 +153,26 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1792816927667
+      "at": 1792817109564
+    },
+    "203": {
+      "attempts": 1,
+      "bestMemory": "13 MB (Beats 97%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-24",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-24",
+      "folderName": "0203-Remove-Linked-List-Elements",
+      "language": "C",
+      "number": 203,
+      "slug": "remove-linked-list-elements",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "title": "Remove Linked List Elements",
+      "at": 1792817109564
     },
     "206": {
       "bestMemory": "11.3 MB (Beats 92%)",
@@ -165,7 +184,7 @@
       "number": 206,
       "solutionCount": 1,
       "title": "Reverse Linked List",
-      "at": 1792816927667
+      "at": 1792817109564
     },
     "234": {
       "attempts": 1,
@@ -186,7 +205,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1792816927667
+      "at": 1792817109564
     }
   },
   "achievements": {
@@ -206,11 +225,12 @@
     "2026-09-17",
     "2026-09-18",
     "2026-10-12",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-24"
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 13
+    "pushes": 14
   },
   "identity": {
     "installId": "112670b5-e2a2-4c06-9e58-1ea7c32b9752",
